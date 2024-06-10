@@ -1,0 +1,73 @@
+.main {
+    /* background-color: rgb(206, 214, 214); */
+    margin-left: 20px;
+    margin-right: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.input {
+    padding: 10px;
+    border-radius: 50px;
+    border: 1px solid grey;
+    padding-left: 30px;
+    font-size: x-small;
+    height: 50px;
+    /* width: 200px; */
+    
+}
+
+.searchBarIcon {
+    margin: 15px;
+}
+
+.profile {
+    display: flex;
+    gap: 15px;
+}
+
+.icon {
+    /* background-color: brown; */
+    height: 45px;
+    width: 45px;
+    border-radius: 100%;
+    border: 1px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img {
+    border-radius: 100%;
+    height: inherit;
+    width: inherit;
+    display: block;
+    height: auto;
+}
+
+.dropdown-icon {
+    position: absolute;
+    top: 0;
+    right: 0;
+
+    background-color: rgb(208, 204, 204);
+
+    /* color: white; */
+    /* Text color */
+    /* padding: 5px; */
+    /* Optional: Add some padding */
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    transform: translateY(140%);
+    align-items: center;
+    /* Optional: Add rounded corners */
+}
+
+.searchBar {
+
+    background-color: blue;
+}

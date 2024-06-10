@@ -1,0 +1,23 @@
+.gallery-img {
+    width: 100%;
+    height: auto;
+}
+
+.bg-cl {
+    background-color: rgba(219, 230, 240, 0.829);
+}
+
+.searchBarIcon {
+    margin: 15px;
+}
+
+.input {
+    padding: 10px;
+    border-radius: 50px;
+    border: 1px solid grey;
+    padding-left: 30px;
+    font-size: x-small;
+    height: 50px;
+    /* width: 200px; */
+
+}
