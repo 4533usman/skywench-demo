@@ -12,13 +12,13 @@ function Cover() {
         </div>
       </div>
       <div className='row  profile-info'>
-        <div className='col-md-3 '></div>
-        <div className='col-md-3  '>
+        <div className='col-lg-3 '></div>
+        <div className='col-lg-3'>
           <h5>Stacey Williams O'neill</h5>
           <p><span className='text-danger text-sm'>@flygirl </span> | Airline and travel expert </p>
         </div>
-        <div className='col-md-1 '></div>
-        <div className='col-md-5  d-flex gap-1 justify-content-end align-items-center'>
+        <div className='col-lg-1 '></div>
+        <div className='col-lg-5  d-flex gap-1 justify-content-end align-items-center'>
           <button type="button" class="btn btn-light rounded-4"><b>About Stacey</b></button>
           <button type="button" class="btn btn-light rounded-4"><b>Travel Portfolio</b></button>
           <button type="button" class="btn btn-light rounded-4"><b>Buckit list</b></button>
